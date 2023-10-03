@@ -21,9 +21,6 @@ body{
   }
 }
 
-
-
-
 .mb-5{
   margin-bottom: 7rem !important;
 }
@@ -77,12 +74,6 @@ body{
   padding: 3%;
   text-align: center;
 }
-
-
-/* #download {
-  background-color:#ff4c68;
-} */
-
 
 @media (max-width : 768px){
    #press{
